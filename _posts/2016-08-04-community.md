@@ -1,13 +1,13 @@
-```
+---
 layout:     post
-title:      "手把手教你：如何创建及运营社群"
-subtitle:   "关于社群的概念及方法论"
+title:      "手把手叫你：如何创建及运营社群"
+subtitle:   "有关社群的概念及方法论"
 date:       2016-08-3 23:00:00
 author:     "初尘"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 社群
-```
+---
 
 
 
